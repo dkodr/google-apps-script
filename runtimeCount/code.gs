@@ -5,7 +5,7 @@
 
 function myFunction() {
 
-	// Start counting execution time
+  // Start counting execution time
   var runtimeCountStart = new Date();
 
 		/* ----------------
