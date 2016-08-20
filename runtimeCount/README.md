@@ -1,4 +1,4 @@
-# Count your project's total execution time
+# How to keep track of Google Apps Script’s total execution time
 
 About a month ago I started having some serious issues with my Google Apps Script projects. I was getting a lot of “Service using too much computer time for one day” errors. And I mean **a lot**! My Gmail inbox wouldn’t shut up. A quick Google search revealed [this ticket](https://code.google.com/p/google-apps-script-issues/issues/detail?id=6213&can=1&colspec=Stars%20Opened%20ID%20Type%20Status%20Summary%20Component%20Owner) with the following response:
 
